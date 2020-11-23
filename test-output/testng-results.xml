@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12313" started-at="2020-11-23T08:43:46Z" finished-at="2020-11-23T08:43:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12313" started-at="2020-11-23T08:43:46Z" finished-at="2020-11-23T08:43:58Z">
+      <class name="api.Topic_02_selenium_webdriver">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:api.Topic_02_selenium_webdriver@6a024a67]" name="beforeClass" is-config="true" duration-ms="10929" started-at="2020-11-23T15:43:46Z" finished-at="2020-11-23T15:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:api.Topic_02_selenium_webdriver@6a024a67]" name="f" duration-ms="520" started-at="2020-11-23T15:43:57Z" finished-at="2020-11-23T15:43:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:api.Topic_02_selenium_webdriver@6a024a67]" name="afterClass" is-config="true" duration-ms="852" started-at="2020-11-23T15:43:57Z" finished-at="2020-11-23T15:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- api.Topic_02_selenium_webdriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
